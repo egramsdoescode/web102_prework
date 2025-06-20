@@ -44,6 +44,7 @@ function addGamesToPage(games) {
             <img src="${games[i].img}" class="game-img" /> 
             <h2>${games[i].name}</h2>
             <p>${games[i].description}</p>
+            <p>Backers: ${games[i].backers}</p>
         `;
         // about each game
         // TIP: if your images are not displaying, make sure there is space
