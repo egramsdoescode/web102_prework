@@ -24,7 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://i.imgur.com/pVsiB7r.mp4" alt="Video Walkthrough" width="500" />
+<video width="500" autoplay loop muted playsinline>
+  <source src="https://i.imgur.com/pVsiB7r.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
