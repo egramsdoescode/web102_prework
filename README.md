@@ -24,7 +24,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Seamonster Walkthrough](https://github.com/user-attachments/assets/495c884f-481e-4073-aa94-6f32e00d00dc)
+<video src="https://github.com/user-attachments/assets/495c884f-481e-4073-aa94-6f32e00d00dc" width="500" autoplay loop muted playsinline> 
+</video>
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
