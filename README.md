@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](https://imgur.com/a/x6kYlyc)
+![Video Walkthrough](https://i.imgur.com/a/x6kYlyc.gif)
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
