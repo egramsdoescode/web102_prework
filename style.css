@@ -11,6 +11,7 @@ body {
 
 .header {
   display: flex;
+  justify-content: space-between;
   background-color: lightblue;
   padding: 1%;
   align-items: center;
@@ -63,11 +64,50 @@ body {
   width: 300px;
   text-align: center;
   border-radius: 7px;
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+
+  transform: translateY(0px) rotate(0deg);
+  transition: transform 0.3s ease;
 }
 
 .game-card:hover {
   cursor: pointer;
-  box-shadow: 0 0 30px lightblue;
+  animation: hoverEffect 0.7s ease forwards;
+  box-shadow: 0 0 30px lightblue; 
+}
+
+@keyframes hoverEffect {
+  0% {
+    transform: translateY(0px) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-10px) rotate(-15deg);
+  }
+  100% {
+    transform: translateY(-10px) rotate(0deg);
+  }
+}
+
+.game-card::after {
+  content: "";
+  position: absolute;
+  top: -20%;
+  left: -20%;
+  width: 140%;
+  height: 140%;
+  background: linear-gradient(45deg, #00f2fe, #4facfe, #00f2fe);
+  background-size: 400% 400%;
+  filter: blur(30px);
+  opacity: 0;
+  transition: opacity 0.4s ease, background-position 1.5s ease;
+  z-index: -1;
+}
+
+.game-card:hover::after {
+  opacity: 1;
+  background-position: 100% 0;
 }
 
 #button-container {
@@ -82,3 +122,7 @@ button {
   border-radius: 7px;
 }
 
+button:hover {
+  cursor: pointer;
+  box-shadow: 0 0 30px lightblue;
+}
