@@ -30,7 +30,7 @@ GIF created with [Kap](https://getkap.co/) for macOS
 
 ## Notes
 - Dug deep into Git basics.
-- Refreshed on important JavaScript functions, namely ```Javascript reduce()``` and ```Javascript filter()```.
+- Refreshed on important JavaScript functions, namely ```reduce()``` and ```filter()```.
 - Refreshed on basic HTML and CSS while also pushing my limits with optional styling added after the required functionality.
 - This was a fun project, can't wait to sink my teeth into more!
 
