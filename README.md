@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [] List anything else that you can get done to improve the app functionality!
+* [x] The header has an Our Games button that navigates to the Our Games section.
+* [x] The Game Cards have a hover animation with upgraded color styles and the buttons now have pointer cursors and box shadows on hover. 
 
 ## Video Walkthrough
 
