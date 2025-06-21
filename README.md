@@ -24,10 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video width="500" autoplay loop muted playsinline>
-  <source src="https://i.imgur.com/pVsiB7r.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Seamonster Walkthrough](https://github.com/user-attachments/assets/495c884f-481e-4073-aa94-6f32e00d00dc)
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
