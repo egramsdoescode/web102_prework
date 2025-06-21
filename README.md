@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/x6kYlyc" data-context="false" ><a href="//imgur.com/a/x6kYlyc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+![Video Walkthrough](https://i.imgur.com/KgNU07e.gif)
 GIF created with [Kap](https://getkap.co/) for macOS
 
 ## Notes
